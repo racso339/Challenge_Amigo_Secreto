@@ -12,7 +12,7 @@
 1. **Clona el repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/tu-usuario/Challenge_Amigo_Secreto.git
 
 2. Accede al proyecto.
 
